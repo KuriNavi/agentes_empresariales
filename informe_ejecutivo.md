@@ -1,25 +1,15 @@
-# INFORME EJECUTIVO: DIAGNÓSTICO Y ESTRATEGIA DE RECUPERACIÓN OPERATIVA
-**Fecha:** 27 de noviembre de 2026
-**Emisor:** Director Ejecutivo
+**Informe Ejecutivo – 27/11/2026**
 
-## 1. DIAGNÓSTICO SITUACIONAL
-La empresa atraviesa un ciclo negativo estructural caracterizado por la degradación simultánea de tres indicadores críticos: ventas (-15.0%), adquisición de clientes (-20.0%) y rentabilidad (Margen bruto cayó de **42.0%** a **34.9%**, una pérdida absoluta de 7.1 puntos).
+**Diagnóstico**
+El negocio enfrenta una desconexión crítica entre volumen y rentabilidad. Las ventas cayeron un 15.0%, mientras los costes de ventas solo disminuyeron un 4.6%, provocando que el margen bruto caiga de 42.0% a 34.9% (una caída de 7.1 puntos porcentuales). Simultáneamente, la eficiencia comercial se deterioró: el Coste Adquisición de Cliente (CAC) aumentó un 20.8% al pasar de 400.00 a 483.33, impulsado por una caída del 20.0% en clientes nuevos frente a una reducción marginal del gasto de marketing (-3.3%). La operación logística colapsó: los pedidos retrasados saltaron de 110 a 300 unidades, elevando la tasa de retrasos de 10.0% a 30.0%. Por último, el equipo experimentó su primera baja con dos renuncias en Q3, coincidiendo con el pico de ineficiencia logística.
 
-El motor principal del deterioro es el colapso logístico: la tasa de pedidos con retraso se disparó del 10.0% al 30.0%. Existe una anomalía crítica donde el volumen absoluto de fallos aumentó de **110** a **300** pedidos (un salto del 172%), mientras que el volumen total de negocio solo cayó un 9.1%. Esto indica que la calidad del servicio ha colapsado desproporcionadamente respecto al volumen operativo, rompiendo la relación histórica entre escala y errores.
+**Riesgo Principal**
+Alto: La combinación de un CAC creciente y una tasa de pedidos retrasados del 30.0% amenaza la sostenibilidad operativa y la satisfacción del cliente. El margen bruto erosionado no se debe a un aumento absoluto de costes, sino a la incapacidad de reducir los gastos al ritmo de la caída en ventas.
 
-Paralelamente, el Costo de Adquisición (CAC) subió de **400.00** a **483.33** (+20.8%). Aunque este aumento no debería haber provocado una caída tan severa en la adquisición, la realidad muestra que la cantidad de clientes nuevos cayó de **150** a **120**. La logística deficiente está frenando la conversión más allá del simple efecto del precio del cliente.
+**Estrategia Recomendada: A (Optimización Logística Inmediata)**
+Priorizar la reducción de la tasa de pedidos retrasados del 30.0% es imperativo para recuperar el flujo de caja y la confianza del cliente. La estrategia se centra en auditar las causas de los 300 retrasos actuales, reasignar recursos a cuellos de botella identificados e implementar controles de salida diarios. Esto mejora directamente la satisfacción del cliente y estabiliza la percepción de valor frente al aumento del CAC.
 
-## 2. RIESGO PRINCIPAL
-**Riesgo de Quiebra por Erosión de Caja y Reputación:** La combinación de una tasa de retrasos estructuralmente alta (30.0%) y un CAC inflado genera un doble efecto letal: pérdida inmediata de margen por gestión de excepciones y fuga de clientes potenciales que no completan la compra debido a la mala experiencia logística. Si no se actúa en los próximos 90 días, el deterioro de la eficiencia operativa continuará correlacionándose con la caída financiera, llevando a un estancamiento del crecimiento y una insostenibilidad de costos.
-
-## 3. ESTRATEGIA RECOMENDADA: IMPLEMENTACIÓN CONJUNTA (PRIORIDAD A)
-Se recomienda ejecutar **Estrategia A ("Estabilización Logística")** como prioridad absoluta en los primeros 30 días, seguida inmediatamente por la activación de **Estrategia B ("Optimización de Canales")**.
-
-La lógica es imperativa: intentar reducir el CAC (Estrategia B) mientras la logística falla (Estrategia A) es ineficiente; atraer clientes a una experiencia deficiente destruye la reputación y anula la inversión en marketing. Por tanto, se debe reestructurar la flota urgente para reducir cuellos de botella críticos y automatizar respuestas a incidencias primero. Una vez estabilizada la operación (retrasos < 15%), se redirige agresivamente el presupuesto hacia canales no saturados para recuperar la adquisición.
-
-**Objetivo Conjunto:** Reducir la tasa de retrasos al máximo de **12.0%** y bajar el CAC a un máximo de **420.00** en 90 días, recuperando al menos +5.0 puntos porcentuales del margen bruto.
-
-## 4. PRÓXIMOS PASOS (HOJA DE RUTA INMEDIATA)
-1.  **Auditoría y Contención Inmediata:** Realizar auditoría de cuellos de botella en la flota actual y desplegar sistema de "triaje" logístico para priorizar entregas de alto margen, desviando el resto a proveedores alternativos o rutas secundarias.
-2.  **Reasignación de Recursos y Presupuesto:** Asignar inmediatamente el 15% del presupuesto operativo actual para contratación de servicios logísticos externos y tecnología de gestión de excepciones; reasignar al menos el 20% del presupuesto de marketing desde canales saturados hacia nuevas vías de adquisición.
-3.  **Implementación de KPIs de Calidad:** Establecer y monitorear en tiempo real los KPIs de calidad *antes* de escalar cualquier nuevo volumen operativo, asegurando que la relación entre volumen y errores se restablezca a niveles históricos antes de lanzar campañas de adquisición masiva.
+**Próximos Pasos**
+1. Auditar las causas raíz de los 300 pedidos retrasados actuales para identificar ineficiencias operativas inmediatas.
+2. Reasignar recursos humanos y materiales a los cuellos de botella detectados en la auditoría logística.
+3. Implementar controles de salida diarios para monitorear el cumplimiento de los plazos de entrega y mitigar futuras renuncias por estrés operativo.
