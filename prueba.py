@@ -322,11 +322,16 @@ def formatear_para_agente(m):
 
 
 #reglas de interpretación de datos para los agentes
-reglas_cifras ="Regla: distingue siempre entre cantidades absolutas "
-"y tasas porcentuales. No interpretes un número de "
-"eventos como un porcentaje. Cuando compares tasas, "
-"indica si la variación corresponde a puntos "
-"porcentuales o a una variación porcentual relativa."
+reglas_cifras = (
+    "\n\nREGLAS: "
+    "1) Los datos entregados son la única fuente de hechos; no inventes datos, "
+    "entidades ni metas numéricas que no estén en ellos. "
+    "2) Distingue cantidades absolutas de porcentajes; nunca interpretes un conteo "
+    "como un porcentaje. "
+    "3) Indica si un cambio es en puntos porcentuales (pp) o variación relativa (%). "
+    "4) No afirmes pérdidas ni márgenes negativos si los datos no los muestran. "
+    "5) Toda causa que no esté en los datos debe empezar con 'Hipótesis:'."
+)
 #datos cargados en el excel
 RUTA_EXCEL = "datos_empresa.xlsx"
 df = cargar_datos(RUTA_EXCEL)
